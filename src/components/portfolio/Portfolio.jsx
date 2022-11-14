@@ -16,7 +16,7 @@ const Portfolio = () => {
       title: 'Covid-19 Web Application',
       description:
         'Created a real-time web application and an app to provide information about the availability of beds and vaccines to users based on their location, during the severe second wave of Covid-19.The project was submitted to Vice Principal of Jntuh.',
-      technologies: 'React| Firebase',
+      technologies: 'React|Firebase',
     },
     {
       id: 3,
