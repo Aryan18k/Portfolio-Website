@@ -21,8 +21,8 @@ const Portfolio = () => {
     {
       id: 3,
       title: 'Sorting Visualiser',
-      description: ' A JavaScript application to analyse working of sorting algorithms like merge sort, quick sort, bubble sort, insertion sort and selection sort',
-      technologies: 'Numpy|Pandas|Tensorflow|Scikit',
+      description: ' A JavaScript application to analyse working of sorting algorithms like merge sort, quick sort, bubble sort, insertion sort and selection sort.',
+      technologies: 'JavaScript|HTML|CSS',
     },
     {
       id: 4,
@@ -32,9 +32,9 @@ const Portfolio = () => {
     },
      {
       id: 5,
-      title: 'Hate Speech Detection from Twitter Data',
-      description: ' Developed a machine learning model to identify hate speech on a dataset of over 35,000 tweets collected from twitter.Obtained highest accuracy of 91.3% using XGBoost',
-      technologies: 'Numpy|Pandas|Tensorflow|Scikit',
+      title: 'Speed Word Typing Game',
+      description: 'The Typing Game helps people to increase their typing speed. Random words appear and the user has to type in the words in the provided input field.The game is made using Javascript, HTML and Bootstrap.',
+      technologies: 'JavaScript|HTML|CSS',
     }
   ];
 
